@@ -1,4 +1,5 @@
-﻿import urllib
+*- coding: utf-8 -*
+import urllib
 import urllib2
 import base64
 import time
