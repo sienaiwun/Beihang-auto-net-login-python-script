@@ -1,5 +1,8 @@
 # 北航实验室断线重连
+[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Tencent/InjectFix/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/Tencent/InjectFix/pulls)
  ![image](buaaNet/buaaNet/image/login.png)
+ 
  北航实验室上网每天早上四点都会所有电脑下线，再上线需要手工登录。这个脚本是为了自动进行网上注册，解决每天手工登录问题。
  </br>
  北航上网需要在gw.buaa.edu.cn上进行账号密码注册。 
