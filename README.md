@@ -1,5 +1,4 @@
 # 北航实验室断线重连
-[![license](http://img.shields.io/badge/license-MIT-blue.svg)]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/sienaiwun/Beihang-auto-net-login-python-script/pulls)
  ![image](buaaNet/buaaNet/image/login.png)
  
